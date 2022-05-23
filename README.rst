@@ -11,7 +11,7 @@ Heroku Setup
 |Deploy|
 
 .. |Deploy| image:: https://www.herokucdn.com/deploy/button.svg
-   :target: https://heroku.com/deploy?template=https://github.com/mariatta/github_app_boilerplate
+   :target: https://heroku.com/deploy?template=https://github.com/CodeWhiteWeb/First-Github-app
 
 
 Add the following config vars in Heroku.
