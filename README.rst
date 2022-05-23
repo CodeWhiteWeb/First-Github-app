@@ -2,19 +2,19 @@ Basic Github App
 ----------------------
 
 A starter webservice for building a GitHub App using gidgethub (v4.1.0+), aiohttp, and
-deployment to Railway.app.
+deployment to Heroku.
 
-Railway.app Setup
+Heroku Setup
 ------------
 
 
 |Deploy|
 
-.. |Deploy| image:: https://railway.app/button.svg
-   :target: https://railway.app//deploy?template=https://github.com/CodeWhiteWeb/First-Github-app
+.. |Deploy| image:: https://www.herokucdn.com/deploy/button.svg
+   :target: https://heroku.com/deploy?template=https://github.com/CodeWhiteWeb/First-Github-app
 
 
-Add the following config vars in Railway.app.
+Add the following config vars in Heroku.
 
 ``GH_SECRET``: The secret key from your GitHub App
 
